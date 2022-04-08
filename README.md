@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sigmar+One&color=A3A1A1&center=true&vCenter=true&multiline=true&lines=Welcom+to+my+github)](https://git.io/typing-svg)
+
 ### Hello 👋
 
 <!--
@@ -14,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 [![fjzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjzhangZzzzzz&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
